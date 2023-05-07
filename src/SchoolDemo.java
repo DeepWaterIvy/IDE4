@@ -1,3 +1,7 @@
+/*
+Ivan Levander
+CSC 222-m1 Spring 23
+ */
 public class SchoolDemo implements SchoolConstants {
     public static void main(String[] args) {
 
